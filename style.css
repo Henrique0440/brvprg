@@ -260,7 +260,7 @@ button:hover {
 
     .sv1 {
         position: relative;
-        left: -150px;
+        left: -160px;
         background-color: rgba(168, 164, 164, 0.8);
         width: 320px;
         height: 180px;
@@ -269,7 +269,7 @@ button:hover {
 
     .sv2 {
         position: relative;
-        left: -150px;
+        left: -160px;
         top: 1px;
         background-color: rgba(168, 164, 164, 0.8);
         width: 320px;
